@@ -205,6 +205,11 @@ p {
   border: none;
 
 }
+#ss2:hover {
+  background-color: rgb(180, 177, 177);
+  color: black;
+
+}
 .img1 {
   width: 390px;
   height: 250px;
@@ -426,6 +431,11 @@ div {
   color: white;
   border: none;
   font-size: 15px;
+}
+#choose2:hover {
+  background-color: rgb(180, 177, 177);
+  color: black;
+
 }
 #end {
   /* display: contents; */
